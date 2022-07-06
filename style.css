@@ -1,6 +1,7 @@
 body{
     font-family: 'Oswald', sans-serif;
     margin: 0; padding: 0;
+    width: 1336px;
 }
 .flex-size{
     display: flex;
@@ -11,6 +12,7 @@ body{
     /* width: 100%; */
     background-size: 1440px;
     height: 669px;
+    width: 1349px;
     
 }
 
@@ -162,6 +164,7 @@ input[type=text] {
     background-color: #0B0D17;
     height: 200px;
     margin-top: 20px;
+    width: 1349px;
   }
   .footer-sec h2{
     color: #FF5959;
