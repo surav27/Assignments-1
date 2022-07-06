@@ -39,11 +39,18 @@ a{
 
 }
 p{
-    font-size: 20px;
-    width: 554px;
-    text-align: center;
-    margin-left: 408px;
-    color: black;
+  font-size: 20px;
+  width: 554px;
+  text-align: center;
+  margin-left: 408px;
+  color: black;
+  margin-bottom: 40px;
+
+}
+#back-color{
+  background-color: #FFEEEE;
+  border: 1px solid #FF5959;
+  border-radius: 2px;
 
 }
 .body-contant{
@@ -67,6 +74,7 @@ h3{
     text-align: center;
     padding: 43px;
     margin-bottom: 25px;
+    background-color: #FAFAFA;
 
 }
 h2{
