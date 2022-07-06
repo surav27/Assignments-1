@@ -171,3 +171,36 @@ input[type=text] {
   .footer-sec p{
     color: #EDF5F6;
   }
+  .updates-sec{
+    margin-bottom: 150px;
+    width: 101%;
+  }
+  .updates-content{}
+  #subscribe-btn{
+    width: 59%;
+    margin-left: 0px;
+    height: 43px;
+    padding-left: 0px;
+    text-align: center;
+    font-size: 16px;
+  }
+  #Sub-btn{
+    width: 50%;
+    margin-left: 0px;
+    padding-top: 5px;
+    border-radius: 0px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+  #form-text{
+    margin-right: 237px;
+    margin-left: 236px;
+    padding: 49px;
+    background-color: #FFF4D6;
+    padding-left: 187px;
+    text-align: start;
+    border-radius: 10px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
